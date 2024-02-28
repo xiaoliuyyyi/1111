@@ -11,4 +11,5 @@
 "birthday1": {"name": "瑶瑶", "birthday": "1999-09-16"},
 "love_date": "2022-10-09",
 "note_ch": "今天也很爱瑶瑶",
+"note_en": "I love Yaoyao very much today."
 }
