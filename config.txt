@@ -1,7 +1,7 @@
 {
 "app_id": "wx82764e0866e7b417",
 "app_secret": "27ebf9f5d2f2f654998a8bf9769e8ee1",
-"template_id": "-ZjRiHfKe0lw51GcIEHv2-PjY0JOyAL9UqMN22-bjuE",
+"template_id": "BPv7H6I5Cyo3iKDZJeuhufOu0vxn4fqZ4cpfwrhwNGQ",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oeR_q6PO_d7VyVlRiSpgCKzwotwM"],
 
